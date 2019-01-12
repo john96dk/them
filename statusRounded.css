@@ -70,19 +70,19 @@
 }
 .online-2S838R {
   border: 2px solid #28a745 !important;
-  box-shadow: 0 0 5px 2px;
+  box-shadow: 0 0 5px 2px #28a745;
 }
 .dnd-1_xrcq {
   border: 2px solid #dc3545 !important;
-  box-shadow: 0 0 5px 2px;
+  box-shadow: 0 0 5px 2px #dc3545;
 }
 .idle-3DEnRT {
   border: 2px solid #ffc107 !important;
-  box-shadow: 0 0 5px 2px;
+  box-shadow: 0 0 5px 2px #ffc107;
 }
 .invisible-1kp8Z0, .offline-3qoTek, .unknown-Ms2zdV {
   border: 2px solid #747f8d !important;
-  box-shadow: 0 0 5px 2px;
+  box-shadow: 0 0 5px 2px  #747f8d;
 }
 .avatar-small .status {
   height: 32px;
