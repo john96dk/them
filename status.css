@@ -95,6 +95,7 @@
 .menu-Sp6bN1 .online-2S838R {background-color: #28a745 !important;}
 .menu-Sp6bN1 .idle-3DEnRT {background-color: #ffc107 !important;}
 .menu-Sp6bN1 .dnd-1_xrcq {background-color: #dc3545 !important;}
+.menu-Sp6bN1 .streaming-2_dnHe {background-color: #593695 !important;}
 .menu-Sp6bN1 .invisible-1kp8Z0,
 .menu-Sp6bN1 .offline-3qoTek,
 .menu-Sp6bN1 .unknown-Ms2zdV {
@@ -125,12 +126,13 @@
 .titleText-3X-zRE .invisible-1kp8Z0,
 .titleText-3X-zRE .offline-3qoTek,
 .titleText-3X-zRE .unknown-Ms2zdV {background-color: #747f8d !important;}
-
+.titleText-3X-zRE .streaming-2_dnHe {background-color: #593695 !important;}
 #friends .status-oxiHuE {
   height: 13px;
   width: 13px;
   top: 0;
 }
+#friends .streaming-2_dnHe,
 #friends .invisible-1kp8Z0,
 #friends .offline-3qoTek,
 #friends .unknown-Ms2zdV {
@@ -161,6 +163,7 @@
 .friendsColumnStatus-ZH4ho2 .dnd-1_xrcq {background-color: var(--DangerColor) !important;}
 .friendsColumnStatus-ZH4ho2 .invisible-1kp8Z0,
 .friendsColumnStatus-ZH4ho2 .offline-3qoTek,
+.friendsColumnStatus-ZH4ho2 .streaming-2_dnHe {background-color: #593695 !important;}
 .friendsColumnStatus-ZH4ho2 .unknown-Ms2zdV {background-color: #747f8d !important;}
 .friendsColumnStatus-ZH4ho2 .status-oxiHuE {
   height: 15px;
